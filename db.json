@@ -1,10 +1,10 @@
 {
   "posts": [{
-    status: "SUCCESS",
-    message: "Entry processed successfully"
+    "status": "SUCCESS",
+    "message": "Entry processed successfully"
   }, {
-    status: "FAILED",
-    message: "Entry processing failed"
+    "status": "FAILED",
+    "message": "Entry processing failed"
   }],
   "profile": {
     "name": "typicode"
